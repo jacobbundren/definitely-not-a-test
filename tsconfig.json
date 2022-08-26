@@ -1,0 +1,6 @@
+{
+  "__comment": "I know this solution could cause potential memory issues, but for the sake of brevity, I chose it.",
+  "compilerOptions": {
+    "resolveJsonModule": true
+  }
+}

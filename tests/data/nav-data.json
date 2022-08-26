@@ -1,0 +1,88 @@
+{
+  "navItems": [
+    {
+      "title": "Home",
+      "relativeURL": "",
+      "parent": null,
+      "expectedElement": "h1",
+      "expectedText": "Time Better Spent"
+    },
+    {
+      "title": "1-2 Weeks RTSM Build",
+      "relativeURL": "solutions/1-2-weeks-rtsm-build/",
+      "parent": "Solutions",
+      "expectedElement": "h2.content__title",
+      "expectedText": "1-2 Weeks RTSM Build"
+    },
+    {
+      "title": "Rapid Prototyping",
+      "relativeURL": "solutions/prototype/",
+      "parent": "Solutions",
+      "expectedElement": "h2.content__title",
+      "expectedText": "Rapid Prototyping"
+    },
+    {
+      "title": "Quality Quantified",
+      "relativeURL": "solutions/quality/",
+      "parent": "Solutions",
+      "expectedElement": "h2.content__title",
+      "expectedText": "Quality Quantified"
+    },
+    {
+      "title": "Agility & System Changes",
+      "relativeURL": "solutions/agility/",
+      "parent": "Solutions",
+      "expectedElement": "h2.content__title",
+      "expectedText": "Agility & System Changes"
+    },
+    {
+      "title": "Integrations",
+      "relativeURL": "solutions/integration/",
+      "parent": "Solutions",
+      "expectedElement": "h2.content__title",
+      "expectedText": "Integrations"
+    },
+    {
+      "title": "Inventory Management",
+      "relativeURL": "solutions/inventory/",
+      "parent": "Solutions",
+      "expectedElement": "h2.content__title",
+      "expectedText": "Inventory Management"
+    },
+    {
+      "title": "About Atreo",
+      "relativeURL": "about/",
+      "parent": "About",
+      "expectedElement": "li.breadcrumb-item",
+      "expectedText": "About"
+    },
+    {
+      "title": "Atreo’s Team",
+      "relativeURL": "atreos-team/",
+      "expectedElement": "li.breadcrumb-item",
+      "parent": "About",
+      "expectedText": "Atreo’s Team"
+    },
+    {
+      "title": "Resources",
+      "relativeURL": "resources/",
+      "parent": null,
+      "expectedElement": "h1.page-title",
+      "expectedText": "Resources"
+    },
+    {
+      "title": "Pricing",
+      "relativeURL": "",
+      "parent": null,
+      "expectedElement": "h2.modal-title",
+      "expectedText": "Request a Quote"
+    },
+    {
+      "title": "LOG IN",
+      "relativeURL": "https://login.atreo.io/#/",
+      "parent": null,
+      "expectedElement": "button.atreo-btn-primary",
+      "expectedText": "Login"
+    }
+  ]
+}
